@@ -1,5 +1,5 @@
 # Hello There, I'm Callum!
-A software engineer from the UK. I am currently studying Computer Science at the University of Kent. I am interested in all things software, but I am particularly interested in natural computing, quantum computing and machine learning. I am currently working on a few projects, including my [website](sherv.co.uk)
+A software engineer from the UK. I am currently studying Computer Science at the University of Kent. I am interested in all things software, but I am particularly interested in natural computing, quantum computing and machine learning. I am currently working on a few projects, including my [website](https://sherv.co.uk)
 # Trophies, Awards & Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CSherv272&show_icons=true&theme=dracula"  alt="Callum's GitHub stats"/>
